@@ -65,7 +65,8 @@ B)non premative
 3)function
 =======================================================================================================
 
-mamary allocation
-
+Type memary allocation
+1)stack
+2)heap
 
 */
