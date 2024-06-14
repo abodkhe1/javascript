@@ -46,3 +46,4 @@ console.log(val1); //null=0 not a number or undefined=NaN
 
 
 
+console.log("ajit");
