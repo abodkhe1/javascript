@@ -46,7 +46,10 @@ console.log(val1); //null=0 not a number or undefined=NaN
 // ==============================================================================
 
 /*
-premative
+Type of Datatypes
+
+A)premative
+
 1)string
 2)number
 3)boolean
@@ -55,7 +58,8 @@ premative
 6)symbol
 7)biginit
 
-non premative
+B)non premative
+
 1)array
 2)object
  
