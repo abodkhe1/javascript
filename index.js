@@ -43,7 +43,22 @@ console.log(val1); //null=0 not a number or undefined=NaN
 
 //Number, Boolean, String conversion method
 
+// ==============================================================================
+
+/*
+premative
+1)string
+2)number
+3)boolean
+4)null
+5)undefine
+6)symbol
+7)biginit
+
+non premative
+1)array
+2)object
+ 
 
 
-
-console.log("ajit");
+*/
